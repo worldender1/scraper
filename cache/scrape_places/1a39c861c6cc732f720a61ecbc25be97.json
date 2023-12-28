@@ -1,0 +1,359 @@
+{
+    "query": "wyzmindz solutions pvt ltd bengaluru karnataka",
+    "places": [
+        {
+            "place_id": "ChIJYZf0HXIVrjsRnjGnQ4DgDw4",
+            "name": "Wyzmindz Solutions",
+            "description": null,
+            "reviews": 146,
+            "competitors": [
+                {
+                    "name": "Zwayam",
+                    "link": "https://www.google.com/maps/search/Zwayam/@12.904069999999999,77.64866850000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 114,
+                    "rating": 3.5,
+                    "main_category": "Software company"
+                },
+                {
+                    "name": "Wenzins Technologies",
+                    "link": "https://www.google.com/maps/search/Wenzins+Technologies/@12.9396547,77.5663519?authuser=0&hl=en&entry=ttu",
+                    "reviews": 24,
+                    "rating": 4.2,
+                    "main_category": "Software company"
+                },
+                {
+                    "name": "WebDizz",
+                    "link": "https://www.google.com/maps/search/WebDizz/@12.875565799999999,77.53239599999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Corporate office"
+                }
+            ],
+            "website": "http://www.wyzmindz.com/",
+            "owner": {
+                "id": "110079451429567550262",
+                "name": "Wyzmindz Solutions (Owner)",
+                "link": "https://www.google.com/maps/contrib/110079451429567550262"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXpvfkEt1V7xXy4jMvRnka64ppXLzy9CZcAw-N=w408-h306-k-no",
+            "main_category": "Software company",
+            "categories": [
+                "Software company"
+            ],
+            "rating": 4.2,
+            "workday_timing": "9:30 am-6:30 pm",
+            "closed_on": [
+                "Sunday"
+            ],
+            "phone": null,
+            "address": "Wyzmindz Solutions, Survey # 19/3, 3rd Floor, Srinivasa Industrial Estate, Kanakapura Rd, behind RMS International School & PU college, Konanakunte, Bengaluru, Karnataka 560062",
+            "review_keywords": [
+                {
+                    "keyword": "to learn",
+                    "count": 22
+                },
+                {
+                    "keyword": "employees",
+                    "count": 11
+                },
+                {
+                    "keyword": "skills",
+                    "count": 11
+                },
+                {
+                    "keyword": "team",
+                    "count": 10
+                },
+                {
+                    "keyword": "management",
+                    "count": 9
+                },
+                {
+                    "keyword": "experience",
+                    "count": 9
+                },
+                {
+                    "keyword": "career",
+                    "count": 8
+                },
+                {
+                    "keyword": "work environment",
+                    "count": 7
+                },
+                {
+                    "keyword": "knowledge",
+                    "count": 5
+                },
+                {
+                    "keyword": "organization",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Wyzmindz+Solutions/data=!4m7!3m6!1s0x3bae15721df49761:0xe0fe08043a7319e!8m2!3d12.8925874!4d77.5649861!16s%2Fg%2F11b5qxx8qh!19sChIJYZf0HXIVrjsRnjGnQ4DgDw4?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9:30 am Thu",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 18,
+                "2": 5,
+                "3": 6,
+                "4": 19,
+                "5": 98
+            },
+            "featured_question": {
+                "question": "How to apply for the job",
+                "answer": "Go to linked in only there you can see about vacancies ",
+                "question_date": "2023-05-07T07:43:29",
+                "question_ago": "7 months ago",
+                "asked_by": {
+                    "name": "Arun",
+                    "link": "https://www.google.com/maps/contrib/103317872731153256310"
+                },
+                "answer_date": "2023-11-09T16:30:44",
+                "answer_ago": "a month ago",
+                "answered_by": {
+                    "name": "Subhasis Patra",
+                    "link": "https://www.google.com/maps/contrib/101182188099889511615"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYZf0HXIVrjsRnjGnQ4DgDw4&q=Wyzmindz+Solutions&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 12.8925874,
+                "longitude": 77.5649861
+            },
+            "plus_code": "VHV7+2X Bengaluru, Karnataka",
+            "detailed_address": {
+                "ward": "Mango Garden Layout, Konanakunte",
+                "street": "Survey # 19/3, 3rd Floor, Srinivasa Industrial Estate, Kanakapura Rd, behind RMS International School & PU college",
+                "city": "Bengaluru",
+                "postal_code": "560062",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1013275282677117342",
+            "data_id": "0x3bae15721df49761:0xe0fe08043a7319e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMXpvfkEt1V7xXy4jMvRnka64ppXLzy9CZcAw-N=w397-h298-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9:30 am-6:30 pm"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Closed"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "The day I've joined this organization, I wasn't quite sure what it's gonna bring up to me and I came with the same mindset that I had in my last organization which was to be in your lane and complete every day's monotonous, expected work. I never really felt the need to push myself out of the 'comfort zone' and to learn something new.\nFor me, it's been such a inspiring experience since the time I've joined and every day's uncertainty is eventually teaching me something new in all aspects of my life.\nSeeing women of the organization handling and doing their work so graciously and confidently has been fascinating, looking forward it always.\nAnd the irony is whenever I second guess my calibre before doing something which  either I haven't been accustomed to or haven't done before, our supervisors are always there to motivate us and sort out things for us.\nAnd as Sachin Sir said-'Agree to disagree'\nThis particular statement has been immensely helpful for me in reducing my overthinking, move forward and be mindful generally and professionally.\nSo far it's been a 'Wyz' decision to join 'Wyzmindz'. ",
+                    "reviewer_name": "Sunita Puri",
+                    "rating": 5,
+                    "review_text": "The day I've joined this organization, I wasn't quite sure what it's gonna bring up to me and I came with the same mindset that I had in my last organization which was to be in your lane and complete every day's monotonous, expected work. I never really felt the need to push myself out of the 'comfort zone' and to learn something new.\nFor me, it's been such a inspiring experience since the time I've joined and every day's uncertainty is eventually teaching me something new in all aspects of my life.\nSeeing women of the organization handling and doing their work so graciously and confidently has been fascinating, looking forward it always.\nAnd the irony is whenever I second guess my calibre before doing something which  either I haven't been accustomed to or haven't done before, our supervisors are always there to motivate us and sort out things for us.\nAnd as Sachin Sir said-'Agree to disagree'\nThis particular statement has been immensely helpful for me in reducing my overthinking, move forward and be mindful generally and professionally.\nSo far it's been a 'Wyz' decision to join 'Wyzmindz'. ",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-27T14:45:44.793000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115526291721412307270/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-cOsq1WiqktIG0_YiFFbBIgScia4RY5dMGhJkCGhpdA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "\"I thoroughly enjoyed my time working at Wyzmindz. The company provided a stimulating and collaborative environment that allowed me to grow both professionally and personally. It was a rewarding experience, and I appreciated the opportunities and challenges that came with it.\"",
+                    "reviewer_name": "Amit Verma",
+                    "rating": 5,
+                    "review_text": "\"I thoroughly enjoyed my time working at Wyzmindz. The company provided a stimulating and collaborative environment that allowed me to grow both professionally and personally. It was a rewarding experience, and I appreciated the opportunities and challenges that came with it.\"",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-27T12:36:40.494000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113122389899591820611/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUP5XOUKk-468wpxvyVwpddYRfzYRPx8nEskgcdBCquFzg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "WyzMindz is more than just a workplace; it's a second home, where the commitment to employee well-being, continuous growth, and a strong sense of belonging make it a truly exceptional place to work.",
+                    "reviewer_name": "Dheerendra Gaurav",
+                    "rating": 5,
+                    "review_text": "WyzMindz is more than just a workplace; it's a second home, where the commitment to employee well-being, continuous growth, and a strong sense of belonging make it a truly exceptional place to work.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-27T15:38:53.085000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106512430474471225764/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4Rtg_588u88mZ6jflUwL3_8nPjvyVgRR2RJQkeXoPhbsI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I have been with Wyzmindz since last one year and here's my honest reviews on it...\n\nPros :-\n(1) Great place to work; especially for freshers where most of the companies don't prefer freshers, Wyzmindz invests in them, nurtures them with their expertise.\n(2) Great place to learn; they promote for online courses of your choice even if it's paid. One can surely grow along with his/her work.\n(3) Supportive and very approachable management.\n(4) Promote and support work-life-balance.\n(5) Value each personnel irrespective of the role.\n(6) Tech. focused leaders who inspire and motivate you always throughout your journey.\n(7) If you are honest with your job then certainly you will get benefited with big rewards. There are big Tech. Giants that you can work along with and have an experience of your life time that you can never buy with any physical wealth.\n\nCons :-\n(1) Salary is very low as per the market.",
+                    "reviewer_name": "Pritam Kumar Sahu",
+                    "rating": 5,
+                    "review_text": "I have been with Wyzmindz since last one year and here's my honest reviews on it...\n\nPros :-\n(1) Great place to work; especially for freshers where most of the companies don't prefer freshers, Wyzmindz invests in them, nurtures them with their expertise.\n(2) Great place to learn; they promote for online courses of your choice even if it's paid. One can surely grow along with his/her work.\n(3) Supportive and very approachable management.\n(4) Promote and support work-life-balance.\n(5) Value each personnel irrespective of the role.\n(6) Tech. focused leaders who inspire and motivate you always throughout your journey.\n(7) If you are honest with your job then certainly you will get benefited with big rewards. There are big Tech. Giants that you can work along with and have an experience of your life time that you can never buy with any physical wealth.\n\nCons :-\n(1) Salary is very low as per the market.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-20T11:31:15.306000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111259389529574733033/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUt7AB826Rni1fXqjcTQmo2-d41WVKpbkbx5GujBHIUsYQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The best thing I experienced here is light mantra which done every morning in our office is a best way to start the day.",
+                    "reviewer_name": "intekhab arif",
+                    "rating": 5,
+                    "review_text": "The best thing I experienced here is light mantra which done every morning in our office is a best way to start the day.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-27T13:34:47.405000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110767281656043441287/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUB2x2AJdZ1Zh-ektpdSazBM8VdK5FN7MQiqyGjnTVfyg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "An excellent, friendly, and supportive environment is provided where everyone is willing to assist with your work. You never feel isolated while working here. A lot can be learned under the guidance of the leadership panel. All employees have access to an internal learning app that provides opportunities for learning and facilitates transition.",
+                    "reviewer_name": "pavan kalyan",
+                    "rating": 5,
+                    "review_text": "An excellent, friendly, and supportive environment is provided where everyone is willing to assist with your work. You never feel isolated while working here. A lot can be learned under the guidance of the leadership panel. All employees have access to an internal learning app that provides opportunities for learning and facilitates transition.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-21T09:04:42.841000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104894932911790927419/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLG-OJgsazaz4eLUfJGGdPmTOoDAmKXd1fWNsdemwj6=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Excellent place to work with. Learning new skills and growing along with the organization is the best part. Friendly management. As a married women every one want to work from home at their comfortability , wyzminds gave that opportunity to me. Its a great privilege to work here. Thank you wyzminds management team.",
+                    "reviewer_name": "M K",
+                    "rating": 5,
+                    "review_text": "Excellent place to work with. Learning new skills and growing along with the organization is the best part. Friendly management. As a married women every one want to work from home at their comfortability , wyzminds gave that opportunity to me. Its a great privilege to work here. Thank you wyzminds management team.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-10T11:42:12.098000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104730499725703341014/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWapcLwWWHSHnZak4w0f4NbRT5O6xdfWZsItLADig4wJ7ln=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Positive work environment. The most beautiful part is that you are free to learn any skill as per your interest, and you will get all the support from team members, which creates a culture of growth and development where employees feel valued and empowered to reach their full potential.",
+                    "reviewer_name": "Sangeeta Nayak",
+                    "rating": 5,
+                    "review_text": "Positive work environment. The most beautiful part is that you are free to learn any skill as per your interest, and you will get all the support from team members, which creates a culture of growth and development where employees feel valued and empowered to reach their full potential.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-20T13:04:41.159000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 58,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108728114923968712093/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVv1fBcGb7WB2UsG1OyVLbE0spSjvTSFW_Yx8yqVOkQwdJB=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}
